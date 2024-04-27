@@ -100,7 +100,7 @@ main {
 }
 
 #social-networks i {
-    font-size: 160&;
+    font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
 }
@@ -145,5 +145,4 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }    
 
-}
 }
